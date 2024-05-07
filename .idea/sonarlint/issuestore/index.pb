@@ -5,16 +5,10 @@ m
 =src/main/java/org/duna/newtextblocks/NewTextBlocksDemo01.java,1\c\1c083a971698ee9f311ed12569be8cb5a65fe5cf
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-g
-7src/main/java/org/duna/newinstanceof/NewInstanceof.java,f\d\fdc565f9d1a0a1f8e987be5ebe50ce15fe293502
 m
 =src/main/java/org/duna/newinstanceof/NewInstanceofDemo01.java,6\b\6beea7be4fa6ffb884d7cb27f1790a45e6cbde5d
 e
 5src/main/java/org/duna/newrecord/NewRecordDemo01.java,1\f\1fa1c4b25f7caaac29e96d88c67a63c0c16a2fa6
-`
-0src/main/java/org/duna/newrecord/UserRecord.java,4\2\42e8981c181a24ae126c27753bd7b22ebd6d0fdd
-\
-,src/main/java/org/duna/newrecord/Person.java,f\2\f212cbc5831fbca7d1091e819eba99a666bb8603
 b
 2src/main/java/org/duna/newrecord/PersonRecord.java,7\4\7497bdd4b3dc6216ecfbc7d0f44573782c40010b
 v
