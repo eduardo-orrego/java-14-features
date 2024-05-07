@@ -13,4 +13,9 @@ Settings > Build, Execution, Deployment > Compiler > Java Compiler :
 
 Run/Debug Configurations > Application > [Choose Application] :
 
--- Build and Run > Modify Options > Add VM Options : --enable-preview
+Build and Run > Modify Options > Add VM Options : --enable-preview
+
+# New Preview Features
+
+- JEP 305: Pattern Matching for instanceof (Preview)
+- JEP 359: Records (Preview)
