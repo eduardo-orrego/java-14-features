@@ -17,3 +17,8 @@ e
 ,src/main/java/org/duna/newrecord/Person.java,f\2\f212cbc5831fbca7d1091e819eba99a666bb8603
 b
 2src/main/java/org/duna/newrecord/PersonRecord.java,7\4\7497bdd4b3dc6216ecfbc7d0f44573782c40010b
+v
+Fsrc/main/java/org/duna/newswitchexpression/SwitchExpressionDemo01.java,f\7\f79f010fae6b4e90ef3c3b1624c62f975ed76e52
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

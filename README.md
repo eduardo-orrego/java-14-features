@@ -19,3 +19,7 @@ Build and Run > Modify Options > Add VM Options : --enable-preview
 
 - JEP 305: Pattern Matching for instanceof (Preview)
 - JEP 359: Records (Preview)
+
+# New Features
+
+- JEP 361: Switch Expressions
