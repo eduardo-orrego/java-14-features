@@ -1,4 +1,4 @@
-package org.duna.newinstanceof;
+package org.duna.jep305.newinstanceof;
 
 public class NewInstanceofDemo01 {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.duna.newrecord;
+package org.duna.jep359.newrecord;
 
 public class NewRecordDemo01 {
   public static void main(String[] args) {

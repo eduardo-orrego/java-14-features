@@ -1,4 +1,4 @@
-package org.duna.newtextblocks;
+package org.duna.jep368.newtextblocks;
 
 public class NewTextBlocksDemo01 {
     public static void main(String[] args) {

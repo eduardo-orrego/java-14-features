@@ -1,4 +1,4 @@
-package org.duna.newswitchexpression;
+package org.duna.jep361.newswitchexpression;
 
 import java.io.IOException;
 import java.time.DayOfWeek;
